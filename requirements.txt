@@ -1,0 +1,4 @@
+jupyterlab
+lasio
+notebook
+welly 
