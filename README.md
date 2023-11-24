@@ -2,8 +2,8 @@
 
 Exploration of data and technologies of the oil and gas sector
 
-01 - Introduction to Welly
-02 - Introduction to Lasio
+- 01 - Introduction to Welly
+- 02 - Introduction to Lasio
 
 ## Installation
 
